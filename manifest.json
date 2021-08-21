@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "Nepali Calender",
+	"description": "Nepali Calender Launcher",
+	"version": "1.0.0",
+	"icons": {
+		"128": "icons/icon_128.png"
+	},
+	"browser_action": {
+		"default_icon": "icons/icon.png",
+		"default_popup": "popup.html"
+	},
+	"permissions": ["activeTab"]
+}
