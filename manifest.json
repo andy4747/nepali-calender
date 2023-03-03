@@ -6,7 +6,7 @@
 	"icons": {
 		"128": "icons/icon_128.png"
 	},
-	"browser_action": {
+	"action": {
 		"default_icon": "icons/icon.png",
 		"default_popup": "popup.html"
 	},
