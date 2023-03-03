@@ -1,8 +1,8 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"name": "Nepali Calender",
 	"description": "Nepali Calender Launcher",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"icons": {
 		"128": "icons/icon_128.png"
 	},
